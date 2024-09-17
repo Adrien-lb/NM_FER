@@ -199,7 +199,6 @@ public class RailwayCnossosTest {
 
     }
 
-
     @Test
     public void Test_Cnossos_Rail_emission_section_4() throws IOException {
 
